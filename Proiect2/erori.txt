@@ -1,0 +1,48 @@
+svm\SVM.java:134: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:142: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:150: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:158: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:166: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:174: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}				
+				                              ^
+svm\SVM.java:182: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:189: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:197: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:205: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:213: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:221: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:229: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:237: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:308: warning: [removal] stop() in Thread has been deprecated and marked for removal
+		algorithm.stop();
+		         ^
+Note: svm\SVM.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+15 warnings

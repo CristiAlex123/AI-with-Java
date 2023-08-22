@@ -1,0 +1,7 @@
+Exception in thread "Thread-4" java.lang.NullPointerException: Cannot read field "kg" because "this.S[<local5>]" is null
+	at alg.OneVersusOne.classify(OneVersusOne.java:199)
+	at alg.OneVersusOne.run(OneVersusOne.java:257)
+Exception in thread "Thread-6" java.lang.NullPointerException: Cannot read field "kg" because "this.S[<local5>]" is null
+	at alg.OneVersusOne.classify(OneVersusOne.java:199)
+	at alg.OneVersusOne.run(OneVersusOne.java:257)
+100stages have passed. Increase the number of stages and reloaded
